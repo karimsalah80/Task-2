@@ -61,9 +61,6 @@ nav a {
   background:
     linear-gradient(rgba(5, 13, 27, 0.55), rgba(5, 13, 27, 0.55)),
     url("https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80") center / cover;
-  /* Your other photo (replace the URL above if preferred):
-     https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80
-  */
 }
 
 .hero h1 {
